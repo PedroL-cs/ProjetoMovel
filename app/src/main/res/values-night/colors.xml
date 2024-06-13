@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColorLight">#FFFFFF</color> <!-- Preto para o texto no tema claro -->
+    <color name="textColorDark">#FFFFFF</color> <!-- Branco para o texto no tema escuro -->
+</resources>

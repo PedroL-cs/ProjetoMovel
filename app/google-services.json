@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654659730649",
+    "project_id": "estacao-cultural-e786d",
+    "storage_bucket": "estacao-cultural-e786d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654659730649:android:a8476d4aa7978aafdad2c8",
+        "android_client_info": {
+          "package_name": "com.example.estacaocultural"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdevwOnFqse6lkK8xHhV_nWaQw0SMZ2FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654659730649:android:e8a1443c4778be23dad2c8",
+        "android_client_info": {
+          "package_name": "com.example.teste2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdevwOnFqse6lkK8xHhV_nWaQw0SMZ2FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
